@@ -19,7 +19,7 @@
 
 ## 1.3 软件下载地址
 1. Typora 官网：[Typora](http://typora.io/)
-2. 上不去官网的，可以直接使用国内的软件管家，例如我用的腾讯电脑管家 -> 软件管家：
+2. 上不去官网的，可以直接使用国内的软件管家，然后在软件内升级到最新版本即可。例如我用的腾讯电脑管家 -> 软件管家：
 ![image-20200423195330297](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200423195333.png)
 
 3. PicGo 蓝奏云下载地址：[PicGo-Setup-2.2.2.exe](https://www.lanzous.com/ia49ojg)
@@ -27,9 +27,30 @@
 
 5. node.js 插件下载地址：[node.js下载](http://nodejs.cn/download/)
 
-&emsp;&emsp;
+&emsp;&emsp;做好上边的准备工作，下边开始配置步骤~
 
-# 2
+# 2 GItHub
+## 2.1 创建图片库
+&emsp;&emsp;在自己的 GitHub 上创建一个库，当做图床，专门用来存储图片。具体操作流程与建仓库的流程一样。
+
+&emsp;&emsp;<font color=#ff0000 size=4>由于 GitHub 不允许存在空的仓库，也不允许存在空的文件夹，因此可以勾选默认创建一个 ReadMe 文件 </font>
+
+![1](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200423225809.png)
+
+## 2.2 获取令牌
+&emsp;&emsp;GitHub 的令牌，其实就是 token，自我感觉就像自己的 GitHub 对外的一个公钥一样，可以让拥有此 token 的软件访问 GitHub 的 API 接口。
+
+&emsp;&emsp;生成过程，参考经验即可，大致步骤如下：
+ - 点击自己的 GitHub 头像
+ - Settings
+ - Developer settings
+ - Personal access tokens
+ - Generate new token
+
+![image-20200423231841387](C:\Users\zhaochen\AppData\Roaming\Typora\typora-user-images\image-20200423231841387.png)
+
+
+
 
 
 
