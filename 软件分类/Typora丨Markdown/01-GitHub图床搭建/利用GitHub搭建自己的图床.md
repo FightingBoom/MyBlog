@@ -47,7 +47,8 @@
  - Personal access tokens
  - Generate new token
 
-![image-20200423231841387](C:\Users\zhaochen\AppData\Roaming\Typora\typora-user-images\image-20200423231841387.png)
+&emsp;&emsp;如下图，注意下边的选项全部勾选。（具体不清楚，大概是赋予使用此 token 的软件一些权限）
+![image-20200423231841387](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200423233041.png)
 
 
 
