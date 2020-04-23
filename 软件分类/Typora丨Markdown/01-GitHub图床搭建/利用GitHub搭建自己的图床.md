@@ -3,5 +3,5 @@
 # 1 前言
 &emsp;&emsp;自己写博客，总不能不插入图片吧？
 
-![image-20200423192641760](upload\image-20200423192641760.png)
+![image-20200423192641760](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200423192947.png)
 
