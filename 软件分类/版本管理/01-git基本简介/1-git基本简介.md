@@ -38,7 +38,7 @@ Git 很容易学习，而且它的足迹很小，性能非常好。它超越了 
 
 &emsp;&emsp;实在不会的，点击这个传送门:point_right:：[Window10下安装Git](https://blog.csdn.net/qq_32786873/article/details/80570783)
 
-&emsp;&emsp;安装完成后，鼠标右键应该会有这两个东东(还没解决插入图片的问题)
+&emsp;&emsp;安装完成后，鼠标右键应该会有这两个东东
 
 ![image-20200506204020002](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200506204021.png)
 
@@ -59,10 +59,94 @@ Git Bash Here
 
 &emsp;&emsp;具体步骤，简要总结如下
 ```shell
-git add .		// 添加当前目录
+git add .			// 添加当前目录下所有文件
+git add filename	// 添加对应文件
+
+git status			// 查看当前状态，非必选
+
+git commit -m "1、这个地方写提交日志文件"
+```
+
+## 3.3 本地仓库操作
+
+### 3.3.1 设置用户
+
+&emsp;&emsp;当安装完成后，我们就可以在本地建一个单独的文件夹，进行 git 文件的存放及管理；
+&emsp;&emsp;此时需要先进行全局配置，简单的说就是需要使用用户登录，好让其他人知道这台电脑上，是谁在修改这个文件，提交的人是谁，此时可以使用如下两条命令
+```shell
+git config --global user.name "用户名"
+git config --global user.email "邮箱地址"
+```
+
+### 3.3.2 git仓库初始化
+&emsp;&emsp;当我们建立一个单独的 git 仓库文件夹后，还需要对此目录进行初始化，需要让 git 知道要管理这个目录，使用如下命令
+```shell
+git init
+```
+
+### 3.3.3 实际练习
+&emsp;&emsp;当一切准备就绪后，就可以按照上边的流程，实际测试一下了，比如我们新建了一个 ReadMe 文件，就可以按照如下方法，进行提交到本地仓库
+
+![image-20200506210735620](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200506210844.png)
+
+### 3.3.4 补充说明
+&emsp;&emsp;使用 git 添加文件时，可以一次添加多个文件，这个和 Linux 的基本操作比较类似，如下
+```shell
+git add .				// 添加当前目录下所有文件
+git add filename1		// 添加第一个文件
+git add filename1 filename2 filename3 ...	// 一次添加多个文件到缓存区
 ```
 
 
 
+# 3.4 git 版本回退
+
+&emsp;&emsp;实际使用中，如果需要回退到之前版本，应该如何去做？
+
+- 首先需要查看历史版本，也就是常说的日志，确定时间点及想要回退到的版本号；
+- 查看日志，可以使用如下命令
+
+```shell
+git log						// 查看日志信息，详细信息
+git log --pretty=oneline	// 显示日志的简略信息，只显示版本号和提交日志
+```
+
+- 两种查看日志方法，效果如下
+
+![image-20200506214220333](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200506214432.png)
 
 
+
+![image-20200506214248668](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200506214433.png)
+
+
+
+- 然后可以使用如下命令，回退到之前版本
+
+```shell
+git reset --hard 版本号
+```
+
+- 其中版本号就是日志文件那一长串的字母+数字，这个看起来很长，但是写的时候，没必要全部都写，如果你目前在用 GitHub 的话，可以在上边看到，一般只取==前7个字符即可==。
+
+
+
+&emsp;&emsp;问题来了，如果回退到之前的版本后，再想要回到**原来最新的版本**，怎么办？此时再使用 <font color=#ff0000>`git log`</font> 命令就会发现，看不到相关日志，怎么办？
+
+
+
+&emsp;&emsp;git 还提供了另外一个查看日志的命令
+
+```shell
+git reflog
+```
+
+&emsp;&emsp;此时得到相关的版本号，即可再次使用 <font color=#ff0000>`git reset --hard 版本号`</font> 命令，到对应版本。
+
+
+
+# 4 总结
+
+1. 要想回到过去，必须先得到 <font color=#ff0000>`commit id`</font>（版本号）；
+2. 要回到未来，需要使用 <font color=#ff0000>`git reflog`</font> 命令进行历史操作查看，得到对应版本号；
+3. 版本号可以不用写全，一般为7个字符即可。
