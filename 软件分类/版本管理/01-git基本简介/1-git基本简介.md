@@ -33,14 +33,36 @@ Git 很容易学习，而且它的足迹很小，性能非常好。它超越了 
 
 
 # 3 git使用
+## 3.1 安装过程
 &emsp;&emsp;直接去官网下载最新版本的 git ，安装过程呢，依我百度这么多经验来看，==一路 next 即可！==
 
-&emsp;&emsp;安装完成后，鼠标右键应该会有这两个东东
+&emsp;&emsp;实在不会的，点击这个传送门:point_right:：[Window10下安装Git](https://blog.csdn.net/qq_32786873/article/details/80570783)
 
-![image-20200421224409909](1-git基本简介.assets/image-20200421224409909.png)
+&emsp;&emsp;安装完成后，鼠标右键应该会有这两个东东(还没解决插入图片的问题)
+
+![image-20200506204020002](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200506204021.png)
+
+```shell
+Git GUI Here
+Git Bash Here
+```
+
+&emsp;&emsp;有上述图标，则代表已经安装完成了！可以开始使用了。
+
+## 3.2 本地操作工作流程
+
+&emsp;&emsp;按照黑马老师的讲解，应该有三个地方，两个步骤，首先是添加要提交的文件，然后执行提交操作（此时需要写上日志）。
+
+&emsp;&emsp;参考截图如下：
+
+![image-20200506204358899](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200506210249.png)
+
+&emsp;&emsp;具体步骤，简要总结如下
+```shell
+git add .		// 添加当前目录
+```
 
 
 
 
 
-![image-20200421225751924](1-git%E5%9F%BA%E6%9C%AC%E7%AE%80%E4%BB%8B.assets/image-20200421225751924.png)
