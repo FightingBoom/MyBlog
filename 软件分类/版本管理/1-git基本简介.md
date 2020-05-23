@@ -34,6 +34,7 @@ Git 很容易学习，而且它的足迹很小，性能非常好。它超越了 
 # 3 git使用
 
 ## 3.1 安装过程
+
 &emsp;&emsp;直接去官网下载最新版本的 git ，安装过程呢，依我百度这么多经验来看，==一路 next 即可！==
 
 &emsp;&emsp;实在不会的，点击这个传送门:point_right:：[Window10下安装Git](https://blog.csdn.net/qq_32786873/article/details/80570783)
