@@ -65,7 +65,7 @@ git pull
 
 &emsp;&emsp;这个方式和之前我的[利用 GitHub + PicGo + Typora 搭建属于自己的图床](https://blog.csdn.net/Fighting_Boom/article/details/105741739)，这篇文章中使用的方式刚好相反，不过原理都大差不差。具体操作步骤如下：
 
-# 3.1 创建本地电脑SSH Key
+## 3.1 创建本地电脑SSH Key
 
 &emsp;&emsp;可同步参考廖雪峰老师的教程，点击这个传送门:point_right:：[远程仓库](https://www.liaoxuefeng.com/wiki/896043488029600/896954117292416)
 
