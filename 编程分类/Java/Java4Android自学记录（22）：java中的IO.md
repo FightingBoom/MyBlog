@@ -121,7 +121,7 @@ class Test
 ```
 &emsp;&emsp;其中 **from.txt** 中的内容为 **abcd** ，则上述代码运行后的结果如下：
 
-![image-20200524145201365](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200524151938.png)
+![image-20200524150143551](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200524151939.png)
 
 &emsp;&emsp;由上述运行结果可以看到，把 **abcd** 这几个字母的 ASCII 码全部打印出来了，后边没有的默认填0，为什么呢？因为 **buffer.length** 是数组的长度，也就是我一次能读100个，结果你只给我4个，那剩下96个就默认填写0了。
 
@@ -150,7 +150,7 @@ System.out.println(s);
 
 &emsp;&emsp;此时再看打印内容，就会发现恢复正常了
 
-![image-20200524150143551](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200524151939.png)
+![image-20200524145201365](https://raw.githubusercontent.com/FightingBoom/BlogPicture/master/20200524151938.png)
 
 
 
