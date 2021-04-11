@@ -40,9 +40,26 @@
 
 ## October（十月）
 
+- [《图解TCPIP》知识学习（1.2）：计算机与网络发展的7个阶段](https://mp.weixin.qq.com/s/nxsfSQM9yjuzrlv4tQl1Iw)
+- [《图解TCPIP》知识学习（1.3）：协议](https://mp.weixin.qq.com/s/f5ESkht9Qyf2VFHjVkMGLg)
+- [《图解TCPIP》知识学习（1.4）：协议由谁规定](https://mp.weixin.qq.com/s/nxTPtMFWSTbgppWg4MUzoA)
+- [《C陷阱与缺陷》学习笔记（1）：这本书值得看吗？](https://mp.weixin.qq.com/s/sOI0cl8CznS-E7ledI111A)
+- [Ubuntu20.04设置静态IP，安装Samba服务，实现win10远程访问文件夹](https://mp.weixin.qq.com/s/efAqHYr5JhxsePtcXdVFfA)
+- [（多图预警）1024这个节，我能过吗？](https://mp.weixin.qq.com/s/zopD9FfSgTHS3SIV_TTS6g)
+
 
 
 ## November（十一月）
+
+- [《C陷阱与缺陷》第2.2节运算符的优先级问题，关于第一个示例的思考总结](https://mp.weixin.qq.com/s/vuOrEyJ0vhcZC2ENNzEJ0A)
+- [简要记录丨VSCode 搭建基础 C/C++ 编译环境](https://mp.weixin.qq.com/s/eCnSQraSwhRIePuZMwraiw)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 
 
 
