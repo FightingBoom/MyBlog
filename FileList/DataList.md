@@ -63,28 +63,43 @@
 
 ## December（十二月）
 
-- []()
-- []()
+- [再见，2020。您好，2021！](https://mp.weixin.qq.com/s/_rbwkLt54JZe8RVXKs0N6w)
 
 
 
 # 2021 年
 
-
+2021 年文章列表记录
 
 ## January（一月）
+
+- [分享6个2020年对我帮助很大的软件](https://mp.weixin.qq.com/s/yVtyUOa3beGs_CJyzyP6qQ)
+- [华为鲲鹏HCIA认证笔记总结一（附题库）](https://mp.weixin.qq.com/s/gDtKRNBTppZVJ7Qu_U3jJQ)
+- [华为鲲鹏HCIA认证笔记总结二（附题库）](https://mp.weixin.qq.com/s/tAAltVPRp9XvphVZBuD86w)
+- [华为鲲鹏HCIA认证笔记总结三（附题库）](https://mp.weixin.qq.com/s/oKbRWbNpwZrj3IWWkr_bCQ)
 
 
 
 ## February（二月）
 
+- [华为鲲鹏HCIA认证笔记总结四（复习考点附题库）](https://mp.weixin.qq.com/s/-PgOGffzexCfL-6H7RNgsw)
+- [C或C++如何通过程序执行shell命令并获取命令执行结果？](https://mp.weixin.qq.com/s/x6mqmYQQvoebXHFZLCHE-w)
+- [有没有人，生来就是“天才”？——《刻意练习》读后感](https://mp.weixin.qq.com/s/xmY91XUdFOM63SSZ0nK5Ag)
+
 
 
 ## March（三月）
 
+- [软件推荐（6）：滴答清单](https://mp.weixin.qq.com/s/ms8aWQqV3Tf2pWFkgkJoyQ)
+- [详细记录丨Realtek RTL8188FU WiFi 驱动移植](https://mp.weixin.qq.com/s/D3PQK42AJWZvdL2gO520hg)
+
 
 
 ## April（四月）
+
+- [详细记录丨Realtek RTL8188FU WiFi 命令编译](https://mp.weixin.qq.com/s/vjNv4jgmNIsasoVxSg4Fsg)
+
+
 
 
 
