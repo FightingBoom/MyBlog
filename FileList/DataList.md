@@ -6,7 +6,7 @@
 
 
 
-# 2020
+# 2020 年
 
 从 2020 年 7 月份开始统计。
 
@@ -53,11 +53,9 @@
 
 - [《C陷阱与缺陷》第2.2节运算符的优先级问题，关于第一个示例的思考总结](https://mp.weixin.qq.com/s/vuOrEyJ0vhcZC2ENNzEJ0A)
 - [简要记录丨VSCode 搭建基础 C/C++ 编译环境](https://mp.weixin.qq.com/s/eCnSQraSwhRIePuZMwraiw)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [忍不住想给大家分享一个好消息](https://mp.weixin.qq.com/s/wWdLNfl4Z4QtEOqzLP6Ndw)
+- [优秀的人真是“自律”吗？ —— 《微习惯》读后感](https://mp.weixin.qq.com/s/ZhUYQQk7ZAJkELLM-q-78g)
+- [详细记录丨公众号如何通过迁移开通留言功能？](https://mp.weixin.qq.com/s/nuUTy7A6khvm9la8FubLaA)
 
 
 
@@ -65,11 +63,12 @@
 
 ## December（十二月）
 
+- []()
+- []()
 
 
 
-
-# 2021
+# 2021 年
 
 
 
