@@ -99,7 +99,7 @@
 
 - [详细记录丨Realtek RTL8188FU WiFi 命令编译](https://mp.weixin.qq.com/s/vjNv4jgmNIsasoVxSg4Fsg)
 
-
+- [详细记录丨Realtek RTL8188FU WiFi 连接路由](https://mp.weixin.qq.com/s/J7TJrpllXr1VcEkL6QIx1g)
 
 
 
