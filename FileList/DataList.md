@@ -101,6 +101,10 @@
 
 - [详细记录丨Realtek RTL8188FU WiFi 连接路由](https://mp.weixin.qq.com/s/J7TJrpllXr1VcEkL6QIx1g)
 
+- [详细记录丨Realtek RTL8188FU WiFi 开启热点](https://mp.weixin.qq.com/s/THiS9TdcrVDXUthFpSAXDw)
+
+- [聊聊最近的事儿](https://mp.weixin.qq.com/s/nJqyd57meJuluNFVktZ6OA)
+
 
 
 ## May（五月）
