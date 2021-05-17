@@ -111,6 +111,8 @@
 
 - [分享丨Windows表情快捷键](https://mp.weixin.qq.com/s/mA3Y9vRJAW3ST8E7HJcrdw)
 
+- [对于大一即将进入大二的学生有什么建议？](https://mp.weixin.qq.com/s/qd2TMyDPgT6Hkb50i8-sMg)
+
 
 
 
